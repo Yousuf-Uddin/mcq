@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MCQ-App/static/css/main.bc1010d6.css",
-    "main.js": "/MCQ-App/static/js/main.1cd9b9f0.js",
-    "static/js/453.6ed28962.chunk.js": "/MCQ-App/static/js/453.6ed28962.chunk.js",
-    "index.html": "/MCQ-App/index.html",
-    "main.bc1010d6.css.map": "/MCQ-App/static/css/main.bc1010d6.css.map",
-    "main.1cd9b9f0.js.map": "/MCQ-App/static/js/main.1cd9b9f0.js.map",
-    "453.6ed28962.chunk.js.map": "/MCQ-App/static/js/453.6ed28962.chunk.js.map"
+    "main.css": "/mcq/static/css/main.bc1010d6.css",
+    "main.js": "/mcq/static/js/main.6b8a6621.js",
+    "static/js/453.6ed28962.chunk.js": "/mcq/static/js/453.6ed28962.chunk.js",
+    "index.html": "/mcq/index.html",
+    "main.bc1010d6.css.map": "/mcq/static/css/main.bc1010d6.css.map",
+    "main.6b8a6621.js.map": "/mcq/static/js/main.6b8a6621.js.map",
+    "453.6ed28962.chunk.js.map": "/mcq/static/js/453.6ed28962.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc1010d6.css",
-    "static/js/main.1cd9b9f0.js"
+    "static/js/main.6b8a6621.js"
   ]
 }
